@@ -48,6 +48,10 @@ add_executable(ftsako
         src/Level.cpp
         src/Level.h
         src/Game.h
+        src/Resources.cpp
+        src/Resources.h
+        src/Renderer.cpp
+        src/Renderer.h
         # src/game.cpp
         # src/level.cpp
 )
